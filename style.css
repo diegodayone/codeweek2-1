@@ -1,0 +1,36 @@
+p {
+    border: 1px solid gold;
+}
+
+div p {
+    border: 0;
+}
+
+#javascript {
+    font-style: italic;
+    font-weight: bolder;
+}
+
+.text-green {
+    color:green;
+}
+
+.bg-dark {
+    background: #141414;
+}
+
+/* h1 {
+    color: pink;
+} */
+
+/* #title {
+    color: red;
+} */
+
+.small-title {
+    color: turquoise;
+}
+
+.big-title {
+    color: blue;
+}
